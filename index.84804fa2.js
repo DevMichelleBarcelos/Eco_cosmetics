@@ -1,0 +1,2 @@
+!function(e=0,t=0){let l=document.getElementsByClassName("main__shop--product--box--img"),n=document.getElementsByClassName("main__shop--product--box--img2");if(0!==e){for(let e=0;e<l.length;e++)l[e].style.display="none";for(let e=0;e<n.length;e++)n[e].style.display="none";let o=document.getElementById(e),s=document.getElementById(t);o.style.display="block",s.style.display="block"}}();
+//# sourceMappingURL=index.84804fa2.js.map
